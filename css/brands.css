@@ -114,15 +114,6 @@
     content: 'Este es mi segundo canal de YouTube, donde subo vlogs y contenido más personal :) No, no ese tipo de contenido.';
     white-space: initial; }
 
-/* Slides */
-.button.button-slides {
-  color: #FFFFFF;
-  background-color: #212c3d }
-.button.button-slides:hover,
-.button.button-slides:hover:before {
-    content: 'Mis slides de cuando doy charlas en conferencias.';
-    white-space: initial; }
-
 /* Mercha */
 .button.button-mercha {
   color: #000000;
@@ -166,4 +157,12 @@
 .button.button-sponsors:hover,
 .button.button-sponsors:hover:before {
     content: 'Si quieres trabajar conmigo, patrocinando algún video en mi canal, te recomiendo que leas esta página primero.';
+    white-space: initial; }
+  /*linkedin */  
+.button.button-linkedin {
+  color: #e6e7ef;
+  background-color: #1452b3 }
+  .button.button-linkedin:hover,
+  .button.button-linkedin:hover:before {
+    content: 'Mi linkedin cualquier cosa escribeme.';
     white-space: initial; }
