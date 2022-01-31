@@ -79,9 +79,9 @@ html {
 body {
   background-image: url(../images/kk.jpg);
   background-color: ;
-  font-size: 22px;
+  font-size: 16px;
   line-height: 24px;
-  font-weight: 600;
+  font-weight: 100;
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #ffffff; }
 
@@ -96,8 +96,8 @@ h1 { font-size:24px; line-height: 64px; letter-spacing: 0;}
 
 
 /* Larger than phablet */
-@media (min-width: 550px) {
-  h1 { font-size: 48px; line-height: 96px;}
+@media (min-width: 250px) {
+  h1 { font-size: 28px; line-height: 16px;}
 }
 
 p {
@@ -107,7 +107,7 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #0085FF; }
+  color: #f8f9fa; }
 a:hover {
   color: #0085FF; }
 
