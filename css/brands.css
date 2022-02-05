@@ -91,7 +91,7 @@
 /* whatsap */
 .button.button-mercha {
   color: #1a0e0e;
-  background-color: #10ff00}
+  background-color: #10ff00;}
 .button.button-mercha:hover,
 .button.button-mercha:hover:before {
     content: 'si deseas que trabaje para usted o simplemente quiere conversar de videojuegos historia o tecnologia, mandeme un mensaje tardo un poco en responder :)';
@@ -101,8 +101,8 @@
 
 /* Mail */
 .button.button-mail {
-  color: #000000;
-  background-color: #E8F3EC }
+  color: #ffffff;
+  background-color: #910122; }
 .button.button-mail:hover,
 .button.button-mail:hover:before {
     content: 'Haciendo click aquí, puedes enviarme un mail, puedo tardar en responder!';
@@ -121,7 +121,7 @@
     /*linkedin */  
 .button.button-linkedin {
   color: #e6e7ef;
-  background-color: #1452b3 }
+  background-color: #1452b3; }
   .button.button-linkedin:hover,
   .button.button-linkedin:hover:before {
     content: 'Mi linkedin cualquier cosa escribeme.';
@@ -130,7 +130,7 @@
     /* github */
 .button.button-github {
   color: #FFFFFF;
-  background-color: #000000 }
+  background-color: #000000; }
 .button.button-github:hover,
 .button.button-github:hover:before {
     content: 'Aqui puedes ver algunas cosas que tengo ';
